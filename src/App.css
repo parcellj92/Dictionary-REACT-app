@@ -1,0 +1,15 @@
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100px;
+}
+
+.dictionary-name {
+  text-align: center;
+  margin: 0 auto;
+  font-size: 48px;
+}
+
+.App-header {
+  margin: 30px 0;
+}
