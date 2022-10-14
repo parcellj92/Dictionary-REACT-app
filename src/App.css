@@ -13,3 +13,8 @@ img {
 .App-header {
   margin: 30px 0;
 }
+
+.App-footer {
+  text-align: center;
+  margin: 5px 0;
+}
